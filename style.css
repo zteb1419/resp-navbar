@@ -90,7 +90,7 @@ nav svg{
         right: 0;
     }
 
-    /* overlay for closing the sb on click outside memu */
+    /* overlay for closing the sidebar on click outside memu */
     #sb_on:checked ~ #overlay{
         /* background: red; */
         height: 100%;
